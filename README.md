@@ -62,12 +62,12 @@ developing your own process.
 
 - Add a new toy when the toy form is submitted
 
-  - How I debugged:
+  - How I debugged: when i checked the error in console. i got a 500. internal server error .so i checked my controller error. Also i had a NameError in rails Terminal.
 
 - Update the number of likes for a toy
 
-  - How I debugged:
+  - How I debugged: when i click my update method i realised that the update is not rendered
 
 - Donate a toy to Goodwill (and delete it from our database)
 
-  - How I debugged:
+  - How I debugged: i check on my routes. and realised there was no route for destroy
